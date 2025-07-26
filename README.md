@@ -1,8 +1,5 @@
-<!-- 👋  Hi, I’m Syed Yusuf Hussaini @yusufsyed24  
-👀  I’m interested in Python and Cloud, Data and Security and recently worked with FastAPI Framework and find it very interesting  
-🌱  I’m currently working with Cloud Technologies and Python  -->
-<!-- 💞️  I’m looking to collaborate on Open Source Management Systems   -->
-<!-- - 🤔 I’m looking for help with Javascript Angular. -->
+<!-- 👋  Hi, I’m Syed Yusuf Hussaini @yusufsyed24  -->
+
 
 # Syed Yusuf Hussaini
 [![Linkedin Badge](https://img.shields.io/badge/-yusufhussaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/yusuf-hussaini)](https://www.linkedin.com/in/yusuf-hussaini) 
