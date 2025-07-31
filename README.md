@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-yousufsyed24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yousufsyed24@gmail.com)](mailto:yousufsyed24@gmail.com)
 
 ### Hi there 👋 Assalam-mu-Alaikum
-I'm a Software Engineering graduate who is currently working as a Software tester and web-designer @Indusre - DXB. I have my Bachelors degree in Computer Applications and my Masters degree in In IT. I am passionate about learning new things
+I'm a Software Engineering graduate who is currently working as a Software tester and web-designer @Indusre - DXB. I have my Bachelors degree in Computer Applications and my Masters degree in IT. I am passionate about learning new things
 
 <!-- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br /> -->
 🌱 I’m currently learning Html, Css, JS, Python<br />
